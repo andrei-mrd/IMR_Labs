@@ -1,0 +1,32 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Gradle / Android build artefacts
+**/.gradle/
+**/build/
+*.apk
+*.aab
+
+# Cache
+Library/PackageCache/
+Library/Bee/
+
+# Vuforia package cache
+Packages/com.ptc.vuforia.engine-*.tgz
+
+# IDE
+*.csproj
+*.sln
+*.user
+*.pidb
+*.unityproj
+*.svd
+.vscode/
+.idea/
